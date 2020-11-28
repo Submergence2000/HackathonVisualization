@@ -24,7 +24,7 @@
         "repo": "pinxv/hackathon2020_backend",
         "member": {
             "skyswords7": "唐家伦",
-            "fengguohao": "冯国豪",
+            "FertileFragrance": "冯国豪",
             "njuselhx": "李和煦",
             "Carl-yan-bit": "颜昊明"
         }
@@ -50,7 +50,7 @@
     },
     {
         "team": "这个队伍的名称是什么",
-        "repo": "var-name-NULL",
+        "repo": "var-name-NULL/submissionDEMO",
         "member": {
             "Nicholas-wei": "魏子淇",
             "Kowalski Gravity": "高源",
@@ -121,8 +121,8 @@
         "repo": "Terminator-caserta-leo-xxh/hacker",
         "member": {
             "xxh160": "侯为栋",
-            "leonardo-hf": "胡晓通",
-            "caserta-012": "林群",
+            "Leonardo-hf": "胡晓通",
+            "Caserta-012": "林群",
             "terminator111": "徐琪"
         }
     },
@@ -140,7 +140,7 @@
         "team": "需求与商业模式创新",
         "repo": "eastchinaHackathon2020/project",
         "member": {
-            "CpaulYZ": "陈彦泽",
+            "Cpaulyz": "陈彦泽",
             "caposerenity": "李俊杰",
             "WooooDyy": "奚志恒",
             "Goldenspirits": "魏凯旋"
@@ -150,7 +150,7 @@
         "team": "觉醒吧，猎杀时刻！",
         "repo": "juexingle/songxinya",
         "member": {
-            "无": "郭庭"
+            "payiz-asj": "郭庭"
         }
     },
     {
@@ -236,5 +236,22 @@
             "warmtianyi": "王天艺",
             "kkkkmunis": "木妮莎·木沙江"
         }
-    }
+    },
+    {
+        "team": "义乌中学 2018 届 16 班",
+        "repo": "chenghaopeng/HengJi",
+        "member": {
+            "chenghaopeng": "成浩鹏"
+        }
+    },
+    {
+        "team": "你说的都对",
+        "repo": "what-you-said-is-true/hack",
+        "member": {
+            "HackJH": "何佳豪",
+            "sophieMiao": "缪一菲",
+            "zijunGao020703": "高子俊",
+            "kuake11": "贾志琦"
+        }
+    },
 ]
