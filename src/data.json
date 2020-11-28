@@ -1,21 +1,5 @@
 [
     {
-        "team": "hackathon",
-        "repo": "HackathonVisualization/HackathonVisualization",
-        "member": {
-            "OrangeX4": "方盛俊",
-            "Submergence2000": "王钧睿",
-            "kottory": "倪锦涵"
-        }
-    },
-    {
-        "team": "null",
-        "repo": "OrangeX4/orangex4.github.io",
-        "member": {
-            "OrangeX4": "方盛俊"
-        }
-    },
-    {
         "team": "homework is stupid",
         "repo": "homework-is-stupid/No-touch-identification",
         "member": {
@@ -23,6 +7,224 @@
             "WannaFy": "汪福运",
             "BZ-D": "丁炳智",
             "dracoooooo": "顾龙"
+        }
+    },
+    {
+        "team": "啪的一下就报名了很快啊 ",
+        "repo": "Sign-up-soon-after-papapa/face_tracking",
+        "member": {
+            "muyun99": "杜云",
+            "miaotony": "黄智杰",
+            "QxGeng": "耿其祥",
+            "WeiZongqi": "魏宗琪"
+        }
+    },
+    {
+        "team": "冯虚御风",
+        "repo": "pinxv/hackathon2020_backend",
+        "member": {
+            "skyswords7": "唐家伦",
+            "fengguohao": "冯国豪",
+            "njuselhx": "李和煦",
+            "Carl-yan-bit": "颜昊明"
+        }
+    },
+    {
+        "team": "年轻人你这样做不队",
+        "repo": "NUAAYoungMan/2020Hackthon",
+        "member": {
+            "Underwood520": "姜冠宇",
+            "tomorrow-and-cais": "蔡泽宇",
+            "emobyyy": "刘子凡"
+        }
+    },
+    {
+        "team": "HelloWeirdo",
+        "repo": "Hackathon-HelloWeirdo/submissionDemo",
+        "member": {
+            "ccyccyccy222": "陈楚芸",
+            "wzhqwq": "王子涵",
+            "Li7673": "李志豪",
+            "yangshilin123": "杨世林"
+        }
+    },
+    {
+        "team": "这个队伍的名称是什么",
+        "repo": "var-name-NULL",
+        "member": {
+            "Nicholas-wei": "魏子淇",
+            "Kowalski Gravity": "高源",
+            "Acceleration55": "邵宇杰",
+            "windwj000": "王杰"
+        }
+    },
+    {
+        "team": "丸子给我吃一个",
+        "repo": "Hackathon2020Team/OurDemo",
+        "member": {
+            "stormbroken": "张洪胤",
+            "Stack-wwf": "王万峰",
+            "Leonezhurui": "朱睿",
+            "storysu": "苏韬叡"
+        }
+    },
+    {
+        "team": "你看我说的对不队",
+        "repo": "Do-you-think-I-m-right/submissionDEMO",
+        "member": {
+            "Xegrofu": "徐岩心",
+            "ad-cxy": "陈欣洋",
+            "whannnnn": "吴水木",
+            "formerfish": "吴思余"
+        }
+    },
+    {
+        "team": "四暗刻",
+        "repo": "Four-concealed-triplets-hackathon/CyberEmbed",
+        "member": {
+            "cilebritain": "戴予淳",
+            "FLLLIGHT": "宣子涛",
+            "CappuccinoCup": "梁超毅",
+            "UenoRuuku": "王中亮"
+        }
+    },
+    {
+        "team": "🐶三神带一坑",
+        "repo": "ThreeGodAndAGreenMan/hackathon2020.github.io",
+        "member": {
+            "Ghjk94522": "杨志斌",
+            "ddlfighter": "符嗣仟"
+        }
+    },
+    {
+        "team": "不讲武德队",
+        "repo": "NJU2020Hackthon/mask_helper",
+        "member": {
+            "NJU-TJL": "唐金麟",
+            "nnnth": "汤昊",
+            "Patrick-Dong": "董宸郅",
+            "Tyler-ytr": "殷天润"
+        }
+    },
+    {
+        "team": "QAQ",
+        "repo": "NJU-QAQ/Hackathon",
+        "member": {
+            "lollipop190": "张潮越",
+            "Ricky -4221": "赵瑞琪",
+            "NJUCS-XiaoLuo": "樊润璞",
+            "TF-Liu": "刘庭烽"
+        }
+    },
+    {
+        "team": "bilibili德川家康薛定谔保留",
+        "repo": "Terminator-caserta-leo-xxh/hacker",
+        "member": {
+            "xxh160": "侯为栋",
+            "leonardo-hf": "胡晓通",
+            "caserta-012": "林群",
+            "terminator111": "徐琪"
+        }
+    },
+    {
+        "team": "食为安",
+        "repo": "hackathon2020-safe-food/demo",
+        "member": {
+            "Sihan-Song": "宋斯涵",
+            "1132702169": "李菲菲",
+            "AirKingCurry": "王辛有",
+            "shiliu520": "冯世林"
+        }
+    },
+    {
+        "team": "需求与商业模式创新",
+        "repo": "eastchinaHackathon2020/project",
+        "member": {
+            "CpaulYZ": "陈彦泽",
+            "caposerenity": "李俊杰",
+            "WooooDyy": "奚志恒",
+            "Goldenspirits": "魏凯旋"
+        }
+    },
+    {
+        "team": "觉醒吧，猎杀时刻！",
+        "repo": "juexingle/songxinya",
+        "member": {
+            "无": "郭庭"
+        }
+    },
+    {
+        "team": "深夜食堂",
+        "repo": "Midnight-Diner/subnet-detect",
+        "member": {
+            "starseeker00": "曾堃",
+            "NJUZS": "钟山"
+        }
+    },
+    {
+        "team": "segmentation fault队",
+        "repo": "Depetrol/CovidCoughDetector",
+        "member": {
+            "CleopatraShao": "邵欣怡",
+            "Depetrol": "李叔禄",
+            "LAD021": "徐浩航",
+            "RussellLe": "乐郁远"
+        }
+    },
+    {
+        "team": "2poj",
+        "repo": "2poj/MeetingHelper",
+        "member": {
+            "dingdang66686": "丁帆",
+            "Xnewi": "徐源泽"
+        }
+    },
+    {
+        "team": "山软不软",
+        "repo": "SDU-HFE/submissionDEMO",
+        "member": {
+            "ZWN2001": "赵炜宁",
+            "lzw-sdu": "刘智炜",
+            "dyy-sdu": "杜悠扬"
+        }
+    },
+    {
+        "team": "观光客",
+        "repo": "tourist12/submissionDEMO",
+        "member": {
+            "name1700": "于星辰",
+            "XuHao10": "徐浩",
+            "w1059483848": "文培杰",
+            "tkj1031": "唐楷珺"
+        }
+    },
+    {
+        "team": "勇夺鼓励奖队",
+        "repo": "Wmznb/wbnbsnb",
+        "member": {
+            "jinxiaolai125": "金晓莱",
+            "Skywalker-10": "高慧尧",
+            "soupseven": "汤琪"
+        }
+    },
+    {
+        "team": "软院平均水平队",
+        "repo": "Four-Common-Men-in-NJUSE/RumorDetection",
+        "member": {
+            "yegcjs": "叶家升",
+            "pcccccccccc": "彭大海",
+            "RY-116": "任毅",
+            "Gxy-2001": "关昕宇"
+        }
+    },
+    {
+        "team": "1+3",
+        "repo": "NJUST-1plus3/QRCode-Gathering",
+        "member": {
+            "wxshhh": "王鑫生",
+            "ChrisAlcatraz": "陈新尹",
+            "maby-by": "李泽",
+            "Wentworth59": "邓晗"
         }
     }
 ]
