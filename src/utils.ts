@@ -3,7 +3,7 @@ type Dict = { [key: string]: number }
 // Ajax 中的GET, 同理还可以写出POST函数
 export function get(url: string, callback: (res: any) => void) {
     const xhr = new XMLHttpRequest()
-    let my_token = 'bd3ff5858909b71fbc253a431eb495116728e874'
+    let my_token = '5325ebf07a0cbebf60780f4ebd016e7b4023065f'
     xhr.open('GET', url, true)
     xhr.setRequestHeader('content-type', 'application/json')
     xhr.setRequestHeader ("Authorization", "token " + my_token)
